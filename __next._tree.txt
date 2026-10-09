@@ -2,4 +2,4 @@
 :HL["/mansion-map-app/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mansion-map-app/_next/static/css/7db9d32f0cba9455.css","style"]
 :HL["/mansion-map-app/_next/static/css/dd2c1beb4ed9dc90.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"GJueqD1UZjCEPe4tSDzUI"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"kza-xSG_cyPUSiFFR05Fy"}

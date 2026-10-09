@@ -1,5 +1,5 @@
 :HL["/mansion-map-app/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/mansion-map-app/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/mansion-map-app/_next/static/css/406ebe369437fa6e.css","style"]
+:HL["/mansion-map-app/_next/static/css/f6ce5969890c63f7.css","style"]
 :HL["/mansion-map-app/_next/static/css/dd2c1beb4ed9dc90.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"NaMOr4Rn_2p5flJnl8nmE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"d3G71gFDQSLeii0u9L4Jo"}
